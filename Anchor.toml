@@ -5,10 +5,10 @@ resolution = true
 skip-lint = false
 
 [programs.devnet]
-dappu_solana_crowdsale_scaffold = "HciPz9qoNEBBWga6KWomnDovANbQWnTAT5iFSNW7Ji3K"
+crowdsale = "HciPz9qoNEBBWga6KWomnDovANbQWnTAT5iFSNW7Ji3K"
 
 [programs.localnet]
-dappu_solana_crowdsale_scaffold = "HciPz9qoNEBBWga6KWomnDovANbQWnTAT5iFSNW7Ji3K"
+crowdsale = "HciPz9qoNEBBWga6KWomnDovANbQWnTAT5iFSNW7Ji3K"
 
 [registry]
 url = "https://api.apr.dev"
